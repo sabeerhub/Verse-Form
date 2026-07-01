@@ -313,7 +313,7 @@ export default function Home() {
                 className="absolute inset-0 bg-gradient-to-br from-gray-50 to-gray-100 rounded-2xl overflow-hidden shadow-2xl"
               >
                 <img
-                  src="/manus-storage/verse-hero-minimal_1a269f8f.png"
+                  src="/manus-storage/verse-hero-minimal_9ebfcd00.png"
                   alt="Hero"
                   className="w-full h-full object-cover"
                 />
@@ -390,7 +390,7 @@ export default function Home() {
                 className="absolute inset-0 bg-gradient-to-br from-white to-gray-50 rounded-2xl overflow-hidden shadow-2xl"
               >
                 <img
-                  src="/manus-storage/verse-builder-showcase_dd18c430.png"
+                  src="/manus-storage/verse-builder-showcase_6d50f409.png"
                   alt="Builder"
                   className="w-full h-full object-cover"
                 />
@@ -517,7 +517,7 @@ export default function Home() {
                 className="absolute inset-0 bg-gradient-to-br from-gray-50 to-gray-100 rounded-2xl overflow-hidden shadow-2xl"
               >
                 <img
-                  src="/manus-storage/verse-dashboard-preview_5617873a.png"
+                  src="/manus-storage/verse-dashboard-preview_9b5efb60.png"
                   alt="Dashboard"
                   className="w-full h-full object-cover"
                 />
@@ -595,7 +595,7 @@ export default function Home() {
       <section className="py-32 px-4 md:px-6 relative overflow-hidden">
         <div className="absolute inset-0 -z-10">
           <img
-            src="/manus-storage/verse-cta-bg_1daa2a17.png"
+            src="/manus-storage/verse-cta-bg_9db1c443.png"
             alt="CTA Background"
             className="w-full h-full object-cover"
           />
